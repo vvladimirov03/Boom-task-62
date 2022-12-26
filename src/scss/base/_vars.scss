@@ -2,4 +2,11 @@
  * Variables
 */
 
-$primary: #0c4bfa;
+$body-color: #97d7f945;
+
+$text-color: rgb(94, 145, 124);
+
+body {
+  background-color: $body-color;
+  color: $text-color;
+}
